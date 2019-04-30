@@ -1,0 +1,22 @@
+name       : budgie-trash-applet
+version    : 1.0.0
+release    : 1
+source     :
+    - https://github.com/EbonJaeger/budgie-trash-applet/archive/1.0.0.tar.gz : 5d569a3eb5515824a5a983ad2edd8efdf1a5301c42d651bfd1c1a6afaa87f2d7
+license    : Apache-2.0
+component  : desktop.budgie
+summary    : Manage items in your trash bin right from the Budgie panel.
+description: |
+    Allows the managing of the user trash bin from the Budgie panel.
+    Gives you the option to view, restore, and permanently delete items in the trash bin.
+builddeps  :
+    - pkgconfig(budgie-1.0)
+    - pkgconfig(gtk+-3.0)
+    - pkgconfig(glib-2.0)
+    - vala
+setup      : |
+    %meson_configure
+build      : |
+    %ninja_build
+install    : |
+    %ninja_install
