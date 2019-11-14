@@ -1,8 +1,8 @@
 name       : budgie-trash-applet
-version    : 1.1.0
-release    : 2
+version    : 1.2.0
+release    : 3
 source     :
-    - https://github.com/EbonJaeger/budgie-trash-applet/archive/v1.1.0.tar.gz : 6d4af0b5530f0332523f8c282c39c6524b05b5f426ffd229d4cfe7fb25714197
+    - https://github.com/EbonJaeger/budgie-trash-applet/archive/v1.2.0.tar.gz : 34e5fbb825c8fd90bdc381154e7791419101d4556bd79821f96badcede4d8f31
 license    : Apache-2.0
 component  : desktop.budgie
 summary    : Manage items in your trash bin right from the Budgie panel.
