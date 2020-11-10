@@ -2,8 +2,8 @@
     <Source>
         <Name>budgie-trash-applet</Name>
         <Packager>
-            <Name>Evan Maddock</Name>
-            <Email>maddock.evan@vivaldi.net</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@getsol.us</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>desktop.budgie</PartOf>
@@ -26,12 +26,12 @@ Gives you the option to view, restore, and permanently delete items in the trash
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2019-11-11</Date>
+        <Update release="4">
+            <Date>2020-11-10</Date>
             <Version>1.2.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Evan Maddock</Name>
-            <Email>maddock.evan@vivaldi.net</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@getsol.us</Email>
         </Update>
     </History>
 </PISI>
