@@ -1,6 +1,6 @@
 name       : budgie-trash-applet
 version    : 2.1.1
-release    : 9
+release    : 10
 source     :
     - https://github.com/EbonJaeger/budgie-trash-applet/archive/refs/tags/v2.1.1-1.tar.gz : 129e4aa0b8d74a4284f9731012c3292f440ff7671fddc130dc0a91139d6225e3
 license    : Apache-2.0

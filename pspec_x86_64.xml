@@ -29,8 +29,8 @@ Gives you the option to view, restore, and permanently delete items in the trash
         </Files>
     </Package>
     <History>
-        <Update release="9">
-            <Date>2022-06-16</Date>
+        <Update release="10">
+            <Date>2022-09-25</Date>
             <Version>2.1.1</Version>
             <Comment>Packaging update</Comment>
             <Name>Evan Maddock</Name>
